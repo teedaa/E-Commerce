@@ -3,6 +3,7 @@
 A MySQL database and application backend built for an e-commerce site that uses the latest technologies in order to compete with other e-commerce companies.
 
 ## Usage
+![Demo Vid](https://youtu.be/aUns6G7gSX0)
 ## Languages and Tools Used
 * ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 * ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
